@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keve000" alt="keve000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/keve000" target="blank"><img src="https://img.shields.io/twitter/follow/keve000?logo=twitter&style=for-the-badge" alt="keve000" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keve000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keve000" height="30" width="40" /></a>
@@ -18,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keve000&show_icons=true&locale=en" alt="keve000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keve000&" alt="keve000" /></p>
-<a class="twitter-timeline" href="https://twitter.com/Keve000?ref_src=twsrc%5Etfw">Tweets by Keve000</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p align="left"> <a href="https://twitter.com/keve000" target="blank"><img src="https://img.shields.io/twitter/follow/keve000?logo=twitter&style=for-the-badge" alt="keve000" /></a> </p>
