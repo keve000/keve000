@@ -18,4 +18,8 @@
 
 <p align="left"> <a href="https://twitter.com/keve000" target="blank"><img src="https://img.shields.io/twitter/follow/keve000?logo=twitter&style=for-the-badge" alt="keve000" /></a>
 <img src="https://komarev.com/ghpvc/?username=keve000&label=Profile%20views&color=0e75b6&style=flat" alt="keve000" /> </p>
+ </a>
+  <a href="http://qiita.com/keve">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/keve/posts.svg" />
+  </a>
 
