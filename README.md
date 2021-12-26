@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=keve000&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
