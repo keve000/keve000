@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keve000&show_icons=true&locale=en&layout=compact" alt="keve000" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keve000&show_icons=true&locale=en&layout=compact" alt="keve000" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keve000&show_icons=true&locale=en" alt="keve000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keve000&" alt="keve000" /></p>
